@@ -1,11 +1,11 @@
 # Import necessary libraries
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-import zipfile
-import os
+import pandas as pd # Data Manipulation
+import matplotlib.pyplot as plt # Visualization
+import seaborn as sns # Visualization
+import zipfile # File Handling
+import os # File Handling
 
-# File paths (Update these paths based on where your files are)
+# File paths 
 zip_file_path = 'C:/Users/suppo/OneDrive/Desktop/Python_Project/venv/adult.zip'  # Path to your zip file
 extracted_path = 'C:/Users/suppo/OneDrive/Desktop/Python'  # Path where you want to extract the files
 
