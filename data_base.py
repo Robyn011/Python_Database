@@ -6,8 +6,8 @@ import zipfile # File Handling
 import os # File Handling
 
 # File paths 
-zip_file_path = 'C:/Users/suppo/OneDrive/Desktop/Python_Project/venv/adult.zip'  # Path to your zip file
-extracted_path = 'C:/Users/suppo/OneDrive/Desktop/Python'  # Path where you want to extract the files
+zip_file_path = './venv/adult.zip'  # Path to your zip file
+extracted_path = './Python'  # Path where you want to extract the files
 
 #  Extract the zip file
 # Create the directory if it doesn't exist
